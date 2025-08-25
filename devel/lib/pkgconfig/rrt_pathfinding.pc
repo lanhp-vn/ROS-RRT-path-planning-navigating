@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/lab4_lan_pham_ws/devel
+
+Name: rrt_pathfinding
+Description: Description of rrt_pathfinding
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
